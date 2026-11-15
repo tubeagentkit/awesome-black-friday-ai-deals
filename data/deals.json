@@ -706,5 +706,17 @@
     "source_url": "https://getyoutubetranscript.com/pricing",
     "verified_on": "2026-11-15",
     "lifetime": true
+  },
+  {
+    "name": "Plus AI",
+    "url": "https://noteifyapp.com/plus-ai/",
+    "category": "AI tools",
+    "description": "AI text assistant for macOS: write, improve, summarize and translate in any app with your OpenAI key. Our own product.",
+    "deal": "30% off the lifetime license: $9.99 → $6.99",
+    "code": "MACPLUSBLACKFRIDAY26",
+    "ends": "2026-11-30",
+    "source_url": "https://noteifyapp.com/special-offers/",
+    "verified_on": "2026-11-15",
+    "lifetime": true
   }
 ]
