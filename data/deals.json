@@ -706,5 +706,17 @@
     "source_url": "https://getyoutubetranscript.com/pricing",
     "verified_on": "2026-11-15",
     "lifetime": true
+  },
+  {
+    "name": "Wishbar",
+    "url": "https://wishbar.app",
+    "category": "AI tools",
+    "description": "Mac menu bar app where you type what you want in plain English and your own ChatGPT or Claude builds a live widget.",
+    "deal": "50% off every one-time licence: 1 Mac $19 (was $39), 2 Macs $24 (was $49), 5 Macs $34 (was $69)",
+    "code": null,
+    "ends": "2026-12-07",
+    "source_url": "https://wishbar.app/black-friday",
+    "verified_on": "2026-11-16",
+    "lifetime": false
   }
 ]
