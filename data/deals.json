@@ -706,5 +706,17 @@
     "source_url": "https://getyoutubetranscript.com/pricing",
     "verified_on": "2026-11-15",
     "lifetime": true
+  },
+  {
+    "name": "Scanify",
+    "url": "https://scanify.to",
+    "category": "Developer tools & APIs",
+    "description": "URL, file and IP scanner for phishing and malware checks.",
+    "deal": "Pro for $1",
+    "code": null,
+    "ends": "2026-12-19",
+    "source_url": "https://scanify.to/pricing",
+    "verified_on": "2026-11-19",
+    "lifetime": false
   }
 ]

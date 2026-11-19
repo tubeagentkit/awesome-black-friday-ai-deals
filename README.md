@@ -2,7 +2,7 @@
 
 > Black Friday and Cyber Monday 2026 deals on AI tools, developer tools and APIs, creator and design tools, and productivity software. Every deal is checked on the vendor's own page, with the source linked.
 
-**59 deals** · **11 lifetime deals** · Last checked 2026-11-15
+**60 deals** · **11 lifetime deals** · Last checked 2026-11-15
 
 ⭐ Star this repo to find it again next November. Know a deal that's missing? [Add it](CONTRIBUTING.md), it takes two minutes.
 
@@ -11,7 +11,7 @@
 ## Contents
 
 - [AI tools](#ai-tools) (10)
-- [Developer tools & APIs](#developer-tools--apis) (20)
+- [Developer tools & APIs](#developer-tools--apis) (21)
 - [Creator, video & design](#creator-video--design) (6)
 - [Productivity, SEO & marketing](#productivity-seo--marketing) (23)
 
@@ -51,6 +51,7 @@
 | [Piloterr](https://www.piloterr.com) | Web scraping and data extraction API. | 50% off the monthly price on every plan for the first three monthly payments ([source](https://www.piloterr.com/blackfriday)) | `BLACKFRIDAY50` | 2026-11-30 |
 | [PortDroid](https://portdroid.net) | Android network toolkit with port scanner, ping, traceroute, DNS and WHOIS. | 50% off PortDroid Pro Lifetime, $4.69 (was $9.49) ([source](https://portdroid.net/black-friday-2026)) | `CYBER_2026` | 2026-12-04 |
 | [POSH](https://poshtui.com) | Version-matched Ruby and Rails docs for coding agents via CLI and MCP. | 30% off for as long as you stay subscribed (new subscriptions) ([source](https://poshtui.com/black-friday)) | `BLACKFRIDAY2026` | 2026-12-02 |
+| [Scanify](https://scanify.to) | URL, file and IP scanner for phishing and malware checks. | Pro for $1 ([source](https://scanify.to/pricing)) | No code needed | 2026-12-19 |
 | [Vibe App Scanner](https://vibeappscanner.com) | Scans AI-built apps for security, SEO and performance issues. | 60% off the first paid month of Go or Pro (new customers) ([source](https://vibeappscanner.com/black-friday)) | No code needed | 2026-11-30 |
 | [VMPal](https://vmpal.com) | Virtual machines for Apple silicon Macs, installed for you, with GPU acceleration. | 25% off ([source](https://vmpal.com/pricing)) | `BLACK_FRIDAY_2026` | not stated |
 | [WP Foreman](https://wpforeman.com) | Hosted dashboard for managing many WordPress sites with backups, uptime alerts and client reports. | Lifetime licenses from $199 (25 sites), limited to 150 deals ([source](https://wpforeman.com/black-friday/)) | No code needed | 2026-11-30 |
