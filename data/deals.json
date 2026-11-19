@@ -706,5 +706,17 @@
     "source_url": "https://getyoutubetranscript.com/pricing",
     "verified_on": "2026-11-15",
     "lifetime": true
+  },
+  {
+    "name": "Noviscan",
+    "url": "https://noviscan.app/",
+    "category": "AI tools",
+    "description": "Face recognition for IP cameras that runs on your computer and warns you when an unknown face shows up.",
+    "deal": "30-day free trial of Noviscan Premium with the code BLACKFRIDAY26, then €9.90 a month (starts Nov 23)",
+    "code": "BLACKFRIDAY26",
+    "ends": "2026-11-30",
+    "source_url": "https://secufor.net/black-week/",
+    "verified_on": "2026-11-19",
+    "lifetime": false
   }
 ]

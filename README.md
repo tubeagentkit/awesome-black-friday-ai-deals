@@ -2,7 +2,7 @@
 
 > Black Friday and Cyber Monday 2026 deals on AI tools, developer tools and APIs, creator and design tools, and productivity software. Every deal is checked on the vendor's own page, with the source linked.
 
-**59 deals** · **11 lifetime deals** · Last checked 2026-11-15
+**60 deals** · **11 lifetime deals** · Last checked 2026-11-15
 
 ⭐ Star this repo to find it again next November. Know a deal that's missing? [Add it](CONTRIBUTING.md), it takes two minutes.
 
@@ -10,7 +10,7 @@
 
 ## Contents
 
-- [AI tools](#ai-tools) (10)
+- [AI tools](#ai-tools) (11)
 - [Developer tools & APIs](#developer-tools--apis) (20)
 - [Creator, video & design](#creator-video--design) (6)
 - [Productivity, SEO & marketing](#productivity-seo--marketing) (23)
@@ -24,6 +24,7 @@
 | [ElevenLabs](https://elevenlabs.io/) | AI voice generation, text to speech and voice cloning platform. | Up to 55% off select plans; Creator annual $99 first year ([source](https://elevenlabs.io/black-friday)) | No code needed | 2026-12-01 |
 | [Fluent 2](https://fluentmac.app) | Mac AI assistant triggered by a hotkey that works with whatever is on screen. | 25% off lifetime-upgrade tiers (Basic, Standard, Team) ([source](https://fluentmac.app)) | `BF2026` | 2026-12-01 |
 | [Noota](https://www.noota.io/) | AI assistant that records meetings, writes notes and drafts follow-up emails. | 40% off annual Pro and Business plans, first year ([source](https://www.noota.io/lp/black-friday)) | No code needed | 2026-11-30 |
+| [Noviscan](https://noviscan.app/) | Face recognition for IP cameras that runs on your computer and warns you when an unknown face shows up. | 30-day free trial of Noviscan Premium with the code BLACKFRIDAY26, then €9.90 a month (starts Nov 23) ([source](https://secufor.net/black-week/)) | `BLACKFRIDAY26` | 2026-11-30 |
 | [Pictory](https://pictory.ai/) | AI video creator that turns scripts and articles into videos. | 50% off Professional annual ($29.50/mo, was $59) ([source](https://pictory.ai/pricing)) | `BLACKFRIDAY2026` | not stated |
 | [Pixara](https://www.pixara.ai/) | Workspace for AI image, video and voiceover generation with multiple models. | 70% off PRO and Ultimate annual plans ([source](https://www.pixara.ai/blogs/best-black-friday-ai-deals-2026)) | No code needed | not stated |
 | [Renderly](https://renderly.video) | Video rendering API that turns a JSON template and data into MP4 files. | 30% off the first payment on Creator and Business plans (starts Nov 27) ([source](https://renderly.video/pricing)) | `BLACKFRIDAY2026` | 2026-12-01 |
