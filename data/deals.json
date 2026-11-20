@@ -706,5 +706,17 @@
     "source_url": "https://getyoutubetranscript.com/pricing",
     "verified_on": "2026-11-15",
     "lifetime": true
+  },
+  {
+    "name": "TranslateManga",
+    "url": "https://translatemanga.net/?pricing_mode=annual#pricing",
+    "category": "AI tools",
+    "description": "Translates manga, manhwa and webtoon pages into 50+ languages inside the original speech bubbles. Our own product.",
+    "deal": "40% off: plans from $6/mo, no code needed (Standard and Pro, billed yearly, first year)",
+    "code": null,
+    "ends": "2026-12-01",
+    "source_url": "https://translatemanga.net/?pricing_mode=annual#pricing",
+    "verified_on": "2026-11-20",
+    "lifetime": false
   }
 ]
