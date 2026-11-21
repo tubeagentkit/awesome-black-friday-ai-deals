@@ -706,5 +706,17 @@
     "source_url": "https://getyoutubetranscript.com/pricing",
     "verified_on": "2026-11-15",
     "lifetime": true
+  },
+  {
+    "name": "Enconvo",
+    "url": "https://enconvo.com",
+    "category": "AI tools",
+    "description": "Native Mac AI assistant and agent that automates your apps, dictates, searches documents and runs cloud or local models.",
+    "deal": "30% off every Lifetime license (from $41.30, was $59) and the first payment of an Enconvo Cloud plan",
+    "code": null,
+    "ends": "2026-12-07",
+    "source_url": "https://enconvo.com",
+    "verified_on": "2026-11-21",
+    "lifetime": true
   }
 ]
