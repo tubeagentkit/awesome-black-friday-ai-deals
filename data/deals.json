@@ -706,5 +706,17 @@
     "source_url": "https://getyoutubetranscript.com/pricing",
     "verified_on": "2026-11-15",
     "lifetime": true
+  },
+  {
+    "name": "Checkout Page",
+    "url": "https://checkoutpage.com",
+    "category": "AI tools",
+    "description": "Build checkout pages, events and forms with AI, or from Claude and ChatGPT through an MCP server.",
+    "deal": "30% off every paid plan: first 6 months on monthly billing, or first year on yearly billing (new paid plans only)",
+    "code": null,
+    "ends": "2026-11-30",
+    "source_url": "https://checkoutpage.com/black-friday",
+    "verified_on": "2026-11-23",
+    "lifetime": false
   }
 ]
