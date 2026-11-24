@@ -706,5 +706,17 @@
     "source_url": "https://getyoutubetranscript.com/pricing",
     "verified_on": "2026-11-15",
     "lifetime": true
+  },
+  {
+    "name": "A1",
+    "url": "https://www.a1.gallery",
+    "category": "Creator, video & design",
+    "description": "Hand-picked gallery of real, live websites for design inspiration, with sections, full pages, fonts and colours.",
+    "deal": "A1 Pro yearly $48 (was $72), 33% off, price kept while subscribed; new yearly plans",
+    "code": null,
+    "ends": "2026-11-30",
+    "source_url": "https://www.a1.gallery/pricing",
+    "verified_on": "2026-11-24",
+    "lifetime": false
   }
 ]

@@ -2,7 +2,7 @@
 
 > Black Friday and Cyber Monday 2026 deals on AI tools, developer tools and APIs, creator and design tools, and productivity software. Every deal is checked on the vendor's own page, with the source linked.
 
-**59 deals** · **11 lifetime deals** · Last checked 2026-11-15
+**60 deals** · **11 lifetime deals** · Last checked 2026-11-15
 
 ⭐ Star this repo to find it again next November. Know a deal that's missing? [Add it](CONTRIBUTING.md), it takes two minutes.
 
@@ -12,7 +12,7 @@
 
 - [AI tools](#ai-tools) (10)
 - [Developer tools & APIs](#developer-tools--apis) (20)
-- [Creator, video & design](#creator-video--design) (6)
+- [Creator, video & design](#creator-video--design) (7)
 - [Productivity, SEO & marketing](#productivity-seo--marketing) (23)
 
 ## AI tools
@@ -59,6 +59,7 @@
 
 | Tool | What it does | Deal | Code | Ends |
 |---|---|---|---|---|
+| [A1](https://www.a1.gallery) | Hand-picked gallery of real, live websites for design inspiration, with sections, full pages, fonts and colours. | A1 Pro yearly $48 (was $72), 33% off, price kept while subscribed; new yearly plans ([source](https://www.a1.gallery/pricing)) | No code needed | 2026-11-30 |
 | [BlogToPin](https://blogtopin.com) | AI tool that designs, writes and schedules Pinterest pins for your blog or store. | 40% off every annual plan ([source](https://blogtopin.com/black-friday)) | `BF40` | 2026-12-01 |
 | [MotionShine](https://motionshine.com/) | Mac screen recorder with auto zoom, smooth cursor, backgrounds and captions. | 50% off every paid plan ([source](https://motionshine.com/)) | `BF50` | 2026-12-05 |
 | [Nuelink](https://nuelink.com/) | Social media scheduler for managing and publishing posts across multiple platforms. | 6 months free on yearly plans ([source](https://nuelink.com/black-friday)) | `BFCM26` | 2026-11-30 |
