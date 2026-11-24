@@ -2,7 +2,7 @@
 
 > Black Friday and Cyber Monday 2026 deals on AI tools, developer tools and APIs, creator and design tools, and productivity software. Every deal is checked on the vendor's own page, with the source linked.
 
-**59 deals** · **11 lifetime deals** · Last checked 2026-11-15
+**60 deals** · **12 lifetime deals** · Last checked 2026-11-15
 
 ⭐ Star this repo to find it again next November. Know a deal that's missing? [Add it](CONTRIBUTING.md), it takes two minutes.
 
@@ -10,7 +10,7 @@
 
 ## Contents
 
-- [AI tools](#ai-tools) (10)
+- [AI tools](#ai-tools) (11)
 - [Developer tools & APIs](#developer-tools--apis) (20)
 - [Creator, video & design](#creator-video--design) (6)
 - [Productivity, SEO & marketing](#productivity-seo--marketing) (23)
@@ -22,6 +22,7 @@
 | [AI Toolbox](https://www.ai-toolbox.co) | Chrome extension adding folders, search and export to ChatGPT, Claude, Gemini and Grok. | 50% off Lifetime and All Access Lifetime (Lifetime $49.50, was $99) ([source](https://www.ai-toolbox.co/pricing)) | `BLACKFRIDAY` | 2026-11-30 |
 | [BoltAI 3](https://boltai.com) | Native AI workspace for chats and agents with ChatGPT, Claude, Gemini and local models. | Lifetime plan $239 (was $399) ([source](https://boltai.com/pricing)) | `BFCM2026` | 2026-12-01 |
 | [ElevenLabs](https://elevenlabs.io/) | AI voice generation, text to speech and voice cloning platform. | Up to 55% off select plans; Creator annual $99 first year ([source](https://elevenlabs.io/black-friday)) | No code needed | 2026-12-01 |
+| [FlowSpeak](https://smolkapps.com/flowspeak/) | Local Hold-Ctrl push-to-talk dictation app for macOS and Linux using whisper.cpp with clipboard restore. | 34% off Lifetime Pro ($19 one-time, reg. $29) ([source](https://smolkapps.com/flowspeak/)) | No code needed | 2026-12-01 |
 | [Fluent 2](https://fluentmac.app) | Mac AI assistant triggered by a hotkey that works with whatever is on screen. | 25% off lifetime-upgrade tiers (Basic, Standard, Team) ([source](https://fluentmac.app)) | `BF2026` | 2026-12-01 |
 | [Noota](https://www.noota.io/) | AI assistant that records meetings, writes notes and drafts follow-up emails. | 40% off annual Pro and Business plans, first year ([source](https://www.noota.io/lp/black-friday)) | No code needed | 2026-11-30 |
 | [Pictory](https://pictory.ai/) | AI video creator that turns scripts and articles into videos. | 50% off Professional annual ($29.50/mo, was $59) ([source](https://pictory.ai/pricing)) | `BLACKFRIDAY2026` | not stated |

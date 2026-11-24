@@ -706,5 +706,17 @@
     "source_url": "https://getyoutubetranscript.com/pricing",
     "verified_on": "2026-11-15",
     "lifetime": true
+  },
+  {
+    "name": "FlowSpeak",
+    "url": "https://smolkapps.com/flowspeak/",
+    "category": "AI tools",
+    "description": "Local Hold-Ctrl push-to-talk dictation app for macOS and Linux using whisper.cpp with clipboard restore.",
+    "deal": "34% off Lifetime Pro ($19 one-time, reg. $29)",
+    "code": null,
+    "ends": "2026-12-01",
+    "source_url": "https://smolkapps.com/flowspeak/",
+    "verified_on": "2026-11-24",
+    "lifetime": true
   }
 ]
