@@ -2,7 +2,7 @@
 
 > Black Friday and Cyber Monday 2026 deals on AI tools, developer tools and APIs, creator and design tools, and productivity software. Every deal is checked on the vendor's own page, with the source linked.
 
-**59 deals** · **11 lifetime deals** · Last checked 2026-11-15
+**60 deals** · **11 lifetime deals** · Last checked 2026-11-15
 
 ⭐ Star this repo to find it again next November. Know a deal that's missing? [Add it](CONTRIBUTING.md), it takes two minutes.
 
@@ -12,7 +12,7 @@
 
 - [AI tools](#ai-tools) (10)
 - [Developer tools & APIs](#developer-tools--apis) (20)
-- [Creator, video & design](#creator-video--design) (6)
+- [Creator, video & design](#creator-video--design) (7)
 - [Productivity, SEO & marketing](#productivity-seo--marketing) (23)
 
 ## AI tools
@@ -65,6 +65,7 @@
 | [Rindraw](https://rindraw.com) | Drawing, painting and animation app for iPad, iPhone and Mac with editable strokes. | 50% off on the App Store, $6.49 (starts Nov 27) ([source](https://rindraw.com/black-friday-2026/)) | No code needed | 2026-12-01 |
 | [ScreenSage Pro](https://screensage.pro/) | Native Mac screen recorder and editor for making demo videos. | Pro $79.90 (was $149); Lifetime $209.90 (was $449) ([source](https://screensage.pro/bf2026)) | `BFS2026P / BFS2026L` | 2026-12-15 |
 | [SocialPilot](https://www.socialpilot.co/) | Social media scheduling and management tool for teams and agencies. | 30% off annual plans for the first year, 20% off monthly plans for 12 months ([source](https://www.socialpilot.co/black-friday)) | No code needed | not stated |
+| [ThreeDee Nova](https://www.threedee.design/) | Turn photos or text prompts into 3D models in your browser. | 30% off one-time credit packs, through 18:00 CET on December 2 ([source](https://www.threedee.design/black-friday/)) | `BLACK30` | 2026-12-02 |
 
 ## Productivity, SEO & marketing
 

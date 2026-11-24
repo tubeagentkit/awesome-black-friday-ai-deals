@@ -706,5 +706,17 @@
     "source_url": "https://getyoutubetranscript.com/pricing",
     "verified_on": "2026-11-15",
     "lifetime": true
+  },
+  {
+    "name": "ThreeDee Nova",
+    "url": "https://www.threedee.design/",
+    "category": "Creator, video & design",
+    "description": "Turn photos or text prompts into 3D models in your browser.",
+    "deal": "30% off one-time credit packs, through 18:00 CET on December 2",
+    "code": "BLACK30",
+    "ends": "2026-12-02",
+    "source_url": "https://www.threedee.design/black-friday/",
+    "verified_on": "2026-11-24",
+    "lifetime": false
   }
 ]
