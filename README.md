@@ -2,7 +2,7 @@
 
 > Black Friday and Cyber Monday 2026 deals on AI tools, developer tools and APIs, creator and design tools, and productivity software. Every deal is checked on the vendor's own page, with the source linked.
 
-**59 deals** · **11 lifetime deals** · Last checked 2026-11-15
+**60 deals** · **11 lifetime deals** · Last checked 2026-11-15
 
 ⭐ Star this repo to find it again next November. Know a deal that's missing? [Add it](CONTRIBUTING.md), it takes two minutes.
 
@@ -11,7 +11,7 @@
 ## Contents
 
 - [AI tools](#ai-tools) (10)
-- [Developer tools & APIs](#developer-tools--apis) (20)
+- [Developer tools & APIs](#developer-tools--apis) (21)
 - [Creator, video & design](#creator-video--design) (6)
 - [Productivity, SEO & marketing](#productivity-seo--marketing) (23)
 
@@ -45,6 +45,7 @@
 | [JuxtaCode](https://juxtacode.app) | Git diff and merge tool for macOS. | 40% off the $40 license (code works from Nov 20) ([source](https://juxtacode.app/black-friday/)) | `BLACKFRIDAY26` | 2026-12-01 |
 | [Karve](https://karve.dev) | Windows app for organizing and running .http files across repos. | 75% off, one-time $39.99 ([source](https://karve.dev/pricing/)) | No code needed | 2026-12-01 |
 | [Kinsta](https://kinsta.com) | Managed WordPress and application hosting. | Annual plans: 3 months free; monthly: 50% off the first 3 months (new customers) ([source](https://kinsta.com/black-friday/)) | No code needed | 2026-12-01 |
+| [KittyTrace](https://kittytrace.com) | Self-hosted error tracking for the Sentry SDK, with a CLI that lets coding agents read issues and stack traces. | 34% off the one-time license ($19, was $29) ([source](https://kittytrace.com)) | `BF2026` | 2026-12-01 |
 | [Layerwise](https://layerwise.app) | Build and ship full-stack apps with database, login, email and storage built in. | 20% off any plan for 12 months ([source](https://layerwise.app/pricing)) | `BLACKFRIDAY2026` | not stated |
 | [Mailtrap](https://mailtrap.io) | Email sending, testing sandbox and email marketing for developers and teams. | Extra 15% off annual plans ([source](https://mailtrap.io/blog/black-friday-software-deals-2026/)) | `BFCM26` | 2026-12-02 |
 | [Perch](https://perch.run) | Mac menu bar app that monitors AI coding agent sessions. | 40% off, $17.40 one-time (first 500 orders) ([source](https://perch.run/black-friday)) | `BLACKFRIDAY2026` | 2026-12-01 |

@@ -706,5 +706,17 @@
     "source_url": "https://getyoutubetranscript.com/pricing",
     "verified_on": "2026-11-15",
     "lifetime": true
+  },
+  {
+    "name": "KittyTrace",
+    "url": "https://kittytrace.com",
+    "category": "Developer tools & APIs",
+    "description": "Self-hosted error tracking for the Sentry SDK, with a CLI that lets coding agents read issues and stack traces.",
+    "deal": "34% off the one-time license ($19, was $29)",
+    "code": "BF2026",
+    "ends": "2026-12-01",
+    "source_url": "https://kittytrace.com",
+    "verified_on": "2026-11-25",
+    "lifetime": false
   }
 ]
