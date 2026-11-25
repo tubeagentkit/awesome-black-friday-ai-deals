@@ -706,5 +706,17 @@
     "source_url": "https://getyoutubetranscript.com/pricing",
     "verified_on": "2026-11-15",
     "lifetime": true
+  },
+  {
+    "name": "Screenpipe",
+    "url": "https://screenpipe.com/black-friday?utm_source=github&utm_medium=deal-list&utm_campaign=black_friday_2026&utm_content=tubeagentkit",
+    "category": "AI tools",
+    "description": "Local screen and audio capture turned into searchable memory, reusable skills and workflows for Claude, Codex, Cursor and teams. macOS, Windows, Linux.",
+    "deal": "20% off the first year of annual plans: Basic $250 -> $200, Business $500 -> $400/seat",
+    "code": null,
+    "ends": "2026-11-30",
+    "source_url": "https://screenpipe.com/black-friday",
+    "verified_on": "2026-11-25",
+    "lifetime": false
   }
 ]
