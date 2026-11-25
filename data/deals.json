@@ -706,5 +706,17 @@
     "source_url": "https://getyoutubetranscript.com/pricing",
     "verified_on": "2026-11-15",
     "lifetime": true
+  },
+  {
+    "name": "ShiftApp",
+    "url": "https://shiftapp.com/black-friday",
+    "category": "Productivity, SEO & marketing",
+    "description": "Employee scheduling software for planning shifts, managing time off and sharing schedules with staff.",
+    "deal": "88% off the first 8 months on new Essential monthly orders. E10 $2.88/mo, then $24/mo (USD before tax)",
+    "code": "BLACKFRIDAY2026",
+    "ends": "2026-12-12",
+    "source_url": "https://shiftapp.com/black-friday",
+    "verified_on": "2026-11-25",
+    "lifetime": false
   }
 ]

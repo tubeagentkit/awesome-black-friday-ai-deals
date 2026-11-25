@@ -2,7 +2,7 @@
 
 > Black Friday and Cyber Monday 2026 deals on AI tools, developer tools and APIs, creator and design tools, and productivity software. Every deal is checked on the vendor's own page, with the source linked.
 
-**59 deals** · **11 lifetime deals** · Last checked 2026-11-15
+**60 deals** · **11 lifetime deals** · Last checked 2026-11-15
 
 ⭐ Star this repo to find it again next November. Know a deal that's missing? [Add it](CONTRIBUTING.md), it takes two minutes.
 
@@ -13,7 +13,7 @@
 - [AI tools](#ai-tools) (10)
 - [Developer tools & APIs](#developer-tools--apis) (20)
 - [Creator, video & design](#creator-video--design) (6)
-- [Productivity, SEO & marketing](#productivity-seo--marketing) (23)
+- [Productivity, SEO & marketing](#productivity-seo--marketing) (24)
 
 ## AI tools
 
@@ -84,6 +84,7 @@
 | [Replug](https://replug.io) | Branded short links, link-in-bio pages and social sharing tool. | 60% off every annual plan (starts Nov 20) ([source](https://replug.io/black-friday)) | No code needed | 2026-12-04 |
 | [Sender](https://www.sender.net) | Email and SMS marketing platform with automation. | 60% off Sender Pro for 24 months ([source](https://sender.net/black-friday/)) | No code needed | 2026-12-01 |
 | [Sequenzy](https://www.sequenzy.com) | Email marketing and lifecycle email tool for SaaS products. | 30% off for a full year ([source](https://www.sequenzy.com/black-friday)) | `BLACKFRIDAY` | not stated |
+| [ShiftApp](https://shiftapp.com/black-friday) | Employee scheduling software for planning shifts, managing time off and sharing schedules with staff. | 88% off the first 8 months on new Essential monthly orders. E10 $2.88/mo, then $24/mo (USD before tax) ([source](https://shiftapp.com/black-friday)) | `BLACKFRIDAY2026` | 2026-12-12 |
 | [ShiftPlus](https://shiftplus.app) | Switch your whole Mac workspace of apps, windows and Spaces with one hotkey. | 40% off lifetime licenses (starts Nov 20) ([source](https://shiftplus.app/black-friday/)) | `BF2026` | 2026-12-02 |
 | [SmartReach](https://smartreach.io) | Sales engagement and cold email outreach platform. | 20% off every annual plan for the first year, with a 14-day free trial ([source](https://smartreach.io/blog/black-friday-deal-software-saas-tools/)) | `SMARTREACH20BF2026` | 2026-12-05 |
 | [Spacepal](https://getspacepal.com) | Names, colours and live previews for Mac desktops (Spaces). | $7.99 once instead of $9.99 (starts Nov 27) ([source](https://getspacepal.com/black-friday/)) | No code needed | 2026-12-01 |
