@@ -2,7 +2,7 @@
 
 > Black Friday and Cyber Monday 2026 deals on AI tools, developer tools and APIs, creator and design tools, and productivity software. Every deal is checked on the vendor's own page, with the source linked.
 
-**59 deals** · **11 lifetime deals** · Last checked 2026-11-15
+**60 deals** · **11 lifetime deals** · Last checked 2026-11-15
 
 ⭐ Star this repo to find it again next November. Know a deal that's missing? [Add it](CONTRIBUTING.md), it takes two minutes.
 
@@ -13,7 +13,7 @@
 - [AI tools](#ai-tools) (10)
 - [Developer tools & APIs](#developer-tools--apis) (20)
 - [Creator, video & design](#creator-video--design) (6)
-- [Productivity, SEO & marketing](#productivity-seo--marketing) (23)
+- [Productivity, SEO & marketing](#productivity-seo--marketing) (24)
 
 ## AI tools
 
@@ -78,6 +78,7 @@
 | [Deckloud](https://deckloud.com) | Native app for Nextcloud Deck boards on mobile and desktop. | Pro lifetime $22.99 (was $39) in app stores; desktop Pro $11.40 with code ([source](https://deckloud.com/black-friday/)) | `BF2026` | 2026-12-02 |
 | [Iruka](https://iruka.sh) | File manager for macOS with tabs, dual panes, previews and batch rename. | 30% off Iruka (new licences only) ([source](https://iruka.sh/black-friday)) | `BF30` | 2026-12-03 |
 | [MouseUp](https://mouseup.app) | External mouse utility for macOS with click debounce and wheel zoom. | 50% off, $4 ([source](https://mouseup.app/pricing)) | `MMFBF2026` | 2026-12-05 |
+| [PasteNotch](https://pastenotch.com) | Clipboard manager for Mac that lives in the notch, with searchable clipboard history. | 50% off, $2.49 one-time (was $4.99) ([source](https://pastenotch.com/black-friday)) | `BLACKFRIDAY50` | 2026-12-01 |
 | [Plerdy](https://www.plerdy.com) | Heatmaps, session replay and SEO checker for conversion optimization. | 50% off every yearly plan ([source](https://www.plerdy.com/black-friday/)) | `plerdyBF2026` | 2026-12-02 |
 | [Proton](https://proton.me) | Privacy-focused email, VPN, password manager and cloud storage suite. | 50% off 1-year Mail Plus and Unlimited plans ([source](https://proton.me/black-friday)) | `BF2026NEW` | not stated |
 | [Quotion](https://quotion.co) | Publishes Apple Notes as a blog or portfolio on your own domain. | 30% off all plans ([source](https://quotion.co/)) | `BLACKFRIDAY2026` | not stated |

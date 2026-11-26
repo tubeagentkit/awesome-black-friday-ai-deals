@@ -706,5 +706,17 @@
     "source_url": "https://getyoutubetranscript.com/pricing",
     "verified_on": "2026-11-15",
     "lifetime": true
+  },
+  {
+    "name": "PasteNotch",
+    "url": "https://pastenotch.com",
+    "category": "Productivity, SEO & marketing",
+    "description": "Clipboard manager for Mac that lives in the notch, with searchable clipboard history.",
+    "deal": "50% off, $2.49 one-time (was $4.99)",
+    "code": "BLACKFRIDAY50",
+    "ends": "2026-12-01",
+    "source_url": "https://pastenotch.com/black-friday",
+    "verified_on": "2026-11-26",
+    "lifetime": false
   }
 ]
