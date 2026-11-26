@@ -709,7 +709,7 @@
   },
   {
     "name": "VibeShield",
-    "url": "https://vibe-checker.appwrite.network",
+    "url": "https://shipbastion.com",
     "category": "Developer tools & APIs",
     "description": "Read-only web app security scanner for JS bundle secrets, source maps, TLS and Supabase RLS.",
     "deal": "78% off one-time lifetime fix pack, $2 (was $9)",
@@ -721,7 +721,7 @@
   },
   {
     "name": "CiteReady",
-    "url": "https://citeready-checker.appwrite.network",
+    "url": "https://cite.shipbastion.com",
     "category": "Productivity, SEO & marketing",
     "description": "Audits AI search visibility, Schema.org entity graphs, AI crawlers and llms.txt readiness.",
     "deal": "83% off one-time lifetime AI search pack, $2 (was $12)",
