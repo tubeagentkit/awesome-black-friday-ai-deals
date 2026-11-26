@@ -706,5 +706,29 @@
     "source_url": "https://getyoutubetranscript.com/pricing",
     "verified_on": "2026-11-15",
     "lifetime": true
+  },
+  {
+    "name": "VibeShield",
+    "url": "https://shipbastion.com",
+    "category": "Developer tools & APIs",
+    "description": "Read-only web app security scanner for JS bundle secrets, source maps, TLS and Supabase RLS.",
+    "deal": "78% off one-time lifetime fix pack, $2 (was $9)",
+    "code": null,
+    "ends": "2026-12-02",
+    "source_url": "https://api.shipbastion.com/checkout/vibeshield",
+    "verified_on": "2026-11-23",
+    "lifetime": true
+  },
+  {
+    "name": "CiteReady",
+    "url": "https://cite.shipbastion.com",
+    "category": "Productivity, SEO & marketing",
+    "description": "Audits AI search visibility, Schema.org entity graphs, AI crawlers and llms.txt readiness.",
+    "deal": "83% off one-time lifetime AI search pack, $2 (was $12)",
+    "code": null,
+    "ends": "2026-12-02",
+    "source_url": "https://api.shipbastion.com/checkout/citeready",
+    "verified_on": "2026-11-23",
+    "lifetime": true
   }
 ]
