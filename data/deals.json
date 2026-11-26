@@ -706,5 +706,17 @@
     "source_url": "https://getyoutubetranscript.com/pricing",
     "verified_on": "2026-11-15",
     "lifetime": true
+  },
+  {
+    "name": "AtAt",
+    "url": "https://atatapp.com/",
+    "category": "AI tools",
+    "description": "Call in your own AI anywhere on macOS, with built-in screenshots, OCR, clipboard history, selection bar, and voice.",
+    "deal": "47% off lifetime ($89, was $169) or 34% off first year ($39, was $59/yr)",
+    "code": null,
+    "ends": "2026-12-15",
+    "source_url": "https://atatapp.com/black-friday",
+    "verified_on": "2026-11-26",
+    "lifetime": true
   }
 ]
