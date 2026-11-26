@@ -706,5 +706,17 @@
     "source_url": "https://getyoutubetranscript.com/pricing",
     "verified_on": "2026-11-15",
     "lifetime": true
+  },
+  {
+    "name": "Exit Loop",
+    "url": "https://www.exitloop.app/black-friday",
+    "category": "Productivity, SEO & marketing",
+    "description": "Cancel flows and failed-payment recovery for SaaS companies that bill with Stripe.",
+    "deal": "50% off the first year of the yearly plan ($149 to $74.50), new customers",
+    "code": "BLACKFRIDAY50",
+    "ends": "2026-12-01",
+    "source_url": "https://www.exitloop.app/black-friday",
+    "verified_on": "2026-11-26",
+    "lifetime": false
   }
 ]
