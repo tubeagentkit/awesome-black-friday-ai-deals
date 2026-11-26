@@ -715,7 +715,7 @@
     "deal": "78% off one-time lifetime fix pack, $2 (was $9)",
     "code": null,
     "ends": "2026-12-02",
-    "source_url": "https://omnipulse-x402.appwrite.network/checkout/vibeshield",
+    "source_url": "https://api.shipbastion.com/checkout/vibeshield",
     "verified_on": "2026-11-23",
     "lifetime": true
   },
@@ -727,7 +727,7 @@
     "deal": "83% off one-time lifetime AI search pack, $2 (was $12)",
     "code": null,
     "ends": "2026-12-02",
-    "source_url": "https://omnipulse-x402.appwrite.network/checkout/citeready",
+    "source_url": "https://api.shipbastion.com/checkout/citeready",
     "verified_on": "2026-11-23",
     "lifetime": true
   }
