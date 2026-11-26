@@ -706,5 +706,17 @@
     "source_url": "https://getyoutubetranscript.com/pricing",
     "verified_on": "2026-11-15",
     "lifetime": true
+  },
+  {
+    "name": "Switchy",
+    "url": "https://getswitchy.app/black-friday",
+    "category": "Productivity, SEO & marketing",
+    "description": "Mac menu bar utility with 31 one-click switches, plus deploy status, 2FA codes and Claude/Codex usage limits.",
+    "deal": "50% off one-time purchase, $2.49 (was $4.99), up to 3 Macs, no subscription",
+    "code": "BLACKFRIDAY50",
+    "ends": "2026-12-01",
+    "source_url": "https://getswitchy.app/black-friday",
+    "verified_on": "2026-11-26",
+    "lifetime": true
   }
 ]

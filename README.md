@@ -2,7 +2,7 @@
 
 > Black Friday and Cyber Monday 2026 deals on AI tools, developer tools and APIs, creator and design tools, and productivity software. Every deal is checked on the vendor's own page, with the source linked.
 
-**59 deals** · **11 lifetime deals** · Last checked 2026-11-15
+**60 deals** · **12 lifetime deals** · Last checked 2026-11-15
 
 ⭐ Star this repo to find it again next November. Know a deal that's missing? [Add it](CONTRIBUTING.md), it takes two minutes.
 
@@ -13,7 +13,7 @@
 - [AI tools](#ai-tools) (10)
 - [Developer tools & APIs](#developer-tools--apis) (20)
 - [Creator, video & design](#creator-video--design) (6)
-- [Productivity, SEO & marketing](#productivity-seo--marketing) (23)
+- [Productivity, SEO & marketing](#productivity-seo--marketing) (24)
 
 ## AI tools
 
@@ -88,6 +88,7 @@
 | [SmartReach](https://smartreach.io) | Sales engagement and cold email outreach platform. | 20% off every annual plan for the first year, with a 14-day free trial ([source](https://smartreach.io/blog/black-friday-deal-software-saas-tools/)) | `SMARTREACH20BF2026` | 2026-12-05 |
 | [Spacepal](https://getspacepal.com) | Names, colours and live previews for Mac desktops (Spaces). | $7.99 once instead of $9.99 (starts Nov 27) ([source](https://getspacepal.com/black-friday/)) | No code needed | 2026-12-01 |
 | [Sponsonizer](https://sponsonizer.com) | Booking tool for selling newsletter sponsorship slots, paid via Stripe. | 50% off Pro annual ([source](https://sponsonizer.com)) | `BF2026` | 2026-11-30 |
+| [Switchy](https://getswitchy.app/black-friday) | Mac menu bar utility with 31 one-click switches, plus deploy status, 2FA codes and Claude/Codex usage limits. | 50% off one-time purchase, $2.49 (was $4.99), up to 3 Macs, no subscription (lifetime) ([source](https://getswitchy.app/black-friday)) | `BLACKFRIDAY50` | 2026-12-01 |
 | [Tidix](https://tidix.app) | Native macOS system monitor covering CPU cores, GPU, disks, network and processes. | $9 per Mac one-time (was $29) ([source](https://tidix.app/)) | `BLACKFRIDAY2026` | not stated |
 | [Todowing](https://todowing.com) | Chrome extension that adds focus sessions and time estimates to Todoist. | 40% off, unlock for $5.99 ([source](https://todowing.com)) | `BF2026` | 2026-11-30 |
 | [Wins](https://wins.cool) | Windows-like window management for macOS with Dock previews and shortcuts. | 40% off new licenses and update renewals ([source](https://wins.cool/)) | `BF_26` | 2026-12-01 |
