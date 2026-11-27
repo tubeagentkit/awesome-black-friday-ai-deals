@@ -2,7 +2,7 @@
 
 > Black Friday and Cyber Monday 2026 deals on AI tools, developer tools and APIs, creator and design tools, and productivity software. Every deal is checked on the vendor's own page, with the source linked.
 
-**59 deals** · **11 lifetime deals** · Last checked 2026-11-15
+**60 deals** · **12 lifetime deals** · Last checked 2026-11-15
 
 ⭐ Star this repo to find it again next November. Know a deal that's missing? [Add it](CONTRIBUTING.md), it takes two minutes.
 
@@ -13,7 +13,7 @@
 - [AI tools](#ai-tools) (10)
 - [Developer tools & APIs](#developer-tools--apis) (20)
 - [Creator, video & design](#creator-video--design) (6)
-- [Productivity, SEO & marketing](#productivity-seo--marketing) (23)
+- [Productivity, SEO & marketing](#productivity-seo--marketing) (24)
 
 ## AI tools
 
@@ -71,6 +71,7 @@
 | Tool | What it does | Deal | Code | Ends |
 |---|---|---|---|---|
 | [Airbridge](https://www.airbridge.io) | Mobile measurement that shows which ads bring paying users, not just installs. | 50% off Core Plan for first 6 paid months ([source](https://www.airbridge.io/en/black-friday)) | `BLACKFRIDAY26` | 2026-11-30 |
+| [Aloud](https://aloudapp.app/) | Native macOS app that reads selected text, PDFs, screenshots and web articles out loud. | 30% off the one-time license, $19 to $13.30 (lifetime) ([source](https://aloudapp.app/black-friday/)) | `BF30` | 2026-12-01 |
 | [AppsByMo](https://appsbymo.app) | Fourteen Mac and iPhone apps from one independent developer. | 50% off every paid app ([source](https://appsbymo.app/)) | `BLACKFRIDAY` | 2026-12-01 |
 | [Chanty](https://www.chanty.com) | Team chat and task collaboration app. | 40% off annual Business plan, 25% off monthly ([source](https://www.chanty.com/black-friday/)) | No code needed | 2026-12-01 |
 | [Chronoid](https://www.chronoid.app) | Automatic time tracking for Mac that turns tracked hours into invoices. | 50% off Personal, Lifetime and the bundle ([source](https://www.chronoid.app/pricing)) | `BLACKFRIDAY26` | 2026-12-03 |
