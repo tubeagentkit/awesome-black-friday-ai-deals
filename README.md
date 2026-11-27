@@ -2,7 +2,7 @@
 
 > Black Friday and Cyber Monday 2026 deals on AI tools, developer tools and APIs, creator and design tools, and productivity software. Every deal is checked on the vendor's own page, with the source linked.
 
-**59 deals** · **11 lifetime deals** · Last checked 2026-11-15
+**60 deals** · **12 lifetime deals** · Last checked 2026-11-15
 
 ⭐ Star this repo to find it again next November. Know a deal that's missing? [Add it](CONTRIBUTING.md), it takes two minutes.
 
@@ -10,7 +10,7 @@
 
 ## Contents
 
-- [AI tools](#ai-tools) (10)
+- [AI tools](#ai-tools) (11)
 - [Developer tools & APIs](#developer-tools--apis) (20)
 - [Creator, video & design](#creator-video--design) (6)
 - [Productivity, SEO & marketing](#productivity-seo--marketing) (23)
@@ -27,6 +27,7 @@
 | [Pictory](https://pictory.ai/) | AI video creator that turns scripts and articles into videos. | 50% off Professional annual ($29.50/mo, was $59) ([source](https://pictory.ai/pricing)) | `BLACKFRIDAY2026` | not stated |
 | [Pixara](https://www.pixara.ai/) | Workspace for AI image, video and voiceover generation with multiple models. | 70% off PRO and Ultimate annual plans ([source](https://www.pixara.ai/blogs/best-black-friday-ai-deals-2026)) | No code needed | not stated |
 | [Renderly](https://renderly.video) | Video rendering API that turns a JSON template and data into MP4 files. | 30% off the first payment on Creator and Business plans (starts Nov 27) ([source](https://renderly.video/pricing)) | `BLACKFRIDAY2026` | 2026-12-01 |
+| [RewriteBar](https://rewritebar.com) | Mac menu bar app that fixes grammar, rewrites and translates selected text in any app with AI. Our own product. | 50% off every one-time license: Standard $14.50 (was $29), Pro $29.50 (was $59) (lifetime) ([source](https://rewritebar.com/black-friday)) | `BF2026` | 2026-12-03 |
 | [Voibe](https://www.getvoibe.com/) | AI dictation and meeting notes app. | 25% off every plan, kept every month on monthly plans ([source](https://www.getvoibe.com/resources/best-black-friday-ai-saas-deals-2026/)) | `BFCM26` | 2026-11-30 |
 | [Wiredesk](https://wiredesk.ai) | AI support agents for chat, phone and email that learn from your help center. | 30% off Growth or Scale for the first year ([source](https://wiredesk.ai/pricing)) | `BLACKFRIDAY2026` | not stated |
 
