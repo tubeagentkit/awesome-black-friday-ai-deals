@@ -706,5 +706,17 @@
     "source_url": "https://getyoutubetranscript.com/pricing",
     "verified_on": "2026-11-15",
     "lifetime": true
+  },
+  {
+    "name": "Aloud",
+    "url": "https://aloudapp.app/",
+    "category": "Productivity, SEO & marketing",
+    "description": "Native macOS app that reads selected text, PDFs, screenshots and web articles out loud.",
+    "deal": "30% off the one-time license, $19 to $13.30",
+    "code": "BF30",
+    "ends": "2026-12-01",
+    "source_url": "https://aloudapp.app/black-friday/",
+    "verified_on": "2026-11-27",
+    "lifetime": true
   }
 ]
