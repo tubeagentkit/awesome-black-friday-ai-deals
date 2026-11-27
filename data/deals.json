@@ -706,5 +706,17 @@
     "source_url": "https://getyoutubetranscript.com/pricing",
     "verified_on": "2026-11-15",
     "lifetime": true
+  },
+  {
+    "name": "Notra",
+    "url": "https://www.usenotra.com",
+    "category": "Productivity, SEO & marketing",
+    "description": "Tracks whether ChatGPT, Claude, Gemini and Google AI recommend your brand, and writes content to get cited.",
+    "deal": "25% off every paid plan for the first 6 months on monthly billing, new customers (Starter $75/mo, was $100)",
+    "code": null,
+    "ends": "2026-12-02",
+    "source_url": "https://www.usenotra.com/pricing",
+    "verified_on": "2026-11-27",
+    "lifetime": false
   }
 ]
