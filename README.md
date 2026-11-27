@@ -2,7 +2,7 @@
 
 > Black Friday and Cyber Monday 2026 deals on AI tools, developer tools and APIs, creator and design tools, and productivity software. Every deal is checked on the vendor's own page, with the source linked.
 
-**59 deals** · **11 lifetime deals** · Last checked 2026-11-15
+**60 deals** · **11 lifetime deals** · Last checked 2026-11-15
 
 ⭐ Star this repo to find it again next November. Know a deal that's missing? [Add it](CONTRIBUTING.md), it takes two minutes.
 
@@ -11,7 +11,7 @@
 ## Contents
 
 - [AI tools](#ai-tools) (10)
-- [Developer tools & APIs](#developer-tools--apis) (20)
+- [Developer tools & APIs](#developer-tools--apis) (21)
 - [Creator, video & design](#creator-video--design) (6)
 - [Productivity, SEO & marketing](#productivity-seo--marketing) (23)
 
@@ -35,6 +35,7 @@
 | Tool | What it does | Deal | Code | Ends |
 |---|---|---|---|---|
 | [1bench](https://1bench.dev) | Desktop app for working with 25+ databases on Mac, Windows and Linux. | 50% off Solo Lifetime, $99 (was $199) (starts Nov 20) ([source](https://1bench.dev/black-friday)) | `FCBF26` | 2026-12-01 |
+| [APXY](https://apxy.dev/) | Local HTTP/HTTPS debugging proxy with CLI and MCP so coding agents can check the requests their code sends. | 30% off APXY Pro, $69.30 one-time for 3 devices (was $99) ([source](https://apxy.dev/)) | `APXY2026` | not stated |
 | [Broadcast](https://sendbroadcast.net) | Self-hosted email broadcast and sequence app. | Regular License $150 (was $250), one-time ([source](https://sendbroadcast.net/black-friday)) | `BLACKFRIDAY26` | 2026-12-01 |
 | [Compresto](https://compresto.app) | Video, image and PDF compression app for macOS. | 40% off all plans ([source](https://compresto.app/pricing)) | `BFCM26` | not stated |
 | [Database Mart](https://www.databasemart.com) | VPS, GPU VPS and dedicated server hosting. | Discounts on VPS, GPU and dedicated servers, e.g. Linux VPS Lite $1.25/mo ([source](https://www.databasemart.com/promo/black-friday-sale)) | `TCRD4911 / TCXR2333` | 2026-11-28 |

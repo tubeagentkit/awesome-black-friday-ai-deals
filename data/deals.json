@@ -706,5 +706,17 @@
     "source_url": "https://getyoutubetranscript.com/pricing",
     "verified_on": "2026-11-15",
     "lifetime": true
+  },
+  {
+    "name": "APXY",
+    "url": "https://apxy.dev/",
+    "category": "Developer tools & APIs",
+    "description": "Local HTTP/HTTPS debugging proxy with CLI and MCP so coding agents can check the requests their code sends.",
+    "deal": "30% off APXY Pro, $69.30 one-time for 3 devices (was $99)",
+    "code": "APXY2026",
+    "ends": "not stated",
+    "source_url": "https://apxy.dev/",
+    "verified_on": "2026-11-27",
+    "lifetime": false
   }
 ]
