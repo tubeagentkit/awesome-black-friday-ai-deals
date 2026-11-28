@@ -706,5 +706,17 @@
     "source_url": "https://getyoutubetranscript.com/pricing",
     "verified_on": "2026-11-15",
     "lifetime": true
+  },
+  {
+    "name": "Ghost",
+    "url": "https://ghostformac.com/black-friday",
+    "category": "AI tools",
+    "description": "Mac app that learns how you write from your texts and mail, then works your apps and replies as you. Our own product.",
+    "deal": "$99 one-time license (normally $129 in beta), plus an AI plan from $19/mo",
+    "code": null,
+    "ends": "2026-12-01",
+    "source_url": "https://ghostformac.com/black-friday",
+    "verified_on": "2026-11-28",
+    "lifetime": false
   }
 ]
